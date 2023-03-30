@@ -1,0 +1,28 @@
+body {
+    font-family: roboto, arial, sans-serif;
+}
+
+h1 {
+    color: #00838f;
+}
+
+h2 {
+    color: #00838f;
+    font-size: smaller;
+}
+
+.favorites p {
+    margin: 0;
+}
+
+.msg p {
+    background-color: #eeeeee;
+}
+
+button {
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #00838f;
+    font-size: larger;
+    border: 1px solid #eee;
+}
